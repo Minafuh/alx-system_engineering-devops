@@ -1,1 +1,2 @@
 #!/bin/bash
+echo $((125+$[TRUEKNOWLEDGE])) /n
